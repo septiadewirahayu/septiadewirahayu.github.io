@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+body {
+    background-color: rgb(211, 245, 247);
+}
+.data1, .data2, .data3 {
+    background-color: rgb(177, 208, 248);
+}
+.tombol {
+    background-color: rgb(177, 208, 248);
+}
+
+
